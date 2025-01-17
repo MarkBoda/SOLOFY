@@ -10,3 +10,6 @@ Collaboration: We recognize that innovation flourishes in collaborative environm
 
 By democratizing access to sustained technology, we are taking critical steps toward addressing climate destabilization and ecosystem collapse. Together, we can envision a world where abundance becomes a shared reality, ensuring that every community has the tools and knowledge necessary to thrive—either independently or through interconnected resource sharing.
 Join us in transforming how we approach future living. Let’s harness the power of open-source hardware to build a society that is equitable, resilient, and abundant for all. Together, we can turn every challenge into an opportunity for growth and change, reaffirming our commitment to both the planet and one another.
+
+![BOUNDARIES Components](https://github.com/user-attachments/assets/331ea723-3cb7-4565-93d9-ae518e3d810c)
+
